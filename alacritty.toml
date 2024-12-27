@@ -1,0 +1,17 @@
+[window]
+  opacity = 0.8
+
+[general]
+working_directory = "dev/"
+
+[font]
+size = 15
+
+[cursor]
+
+  [cursor.style]
+    shape = "Beam"
+    blinking = "On"
+
+[terminal]
+osc52 = "CopyPaste"
